@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gedeon kakona
 =====================================================================================================================================
 
-Full Stack Web Developer
+Full Stack Developer
 ------------------------
 
 A React Developer for past 2 years and a student of Bachelors in Business Information Technology. I use my extensive knowledge of software development and programming to lead the company's initiatives and system objectives. Self-employment and teamwork to write code for various Websites and mobile applications. Also I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
