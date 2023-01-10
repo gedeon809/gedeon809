@@ -7,7 +7,7 @@ Full Stack Developer
 A Javascript ||ReactJs || Native || MERN  Developer for past 3 years. I use my extensive knowledge of software development and programming to lead the company's initiatives and system objectives. Self-employment and teamwork to write code for various Websites and mobile applications. Also I just love the process of software development, whereby you can take something from an idea to a real product that many can use. Over these years, I have started to become very versed in things like architecture designs and communication. I realized, that what differences successful projects from failed projects is those things exactly. Building proper base foundation/architecture for an application for the team to build off is extremely important. It decreases the maintenance time and as well as the time to build new features, while also making the team happier.
 
 * 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [gd-portfolio-resume](http://gd-portfolio-resume.netlify.app/)
+* 🖥️  See my portfolio at [gd-portfolio-resume](https://gedeon-portfolio.netlify.app/)
 * ✉️  You can contact me at [gedeonkakona@gmail.com](mailto:gedeonkakona@gmail.com)
 * 🚀  I'm currently working on [travelling-App](http://gd-travel-site.netlify.app)
 * 🧠  I'm learning NextJs, Jest, Cypress and Advanced React Native
